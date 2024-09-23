@@ -1,7 +1,5 @@
 # README 
 
-
-
 ## Basics
 * which IDE? IntelliJ, VSCode, and Eclipse
 * your choice of Java: GraalVM
@@ -61,6 +59,10 @@
 * virtual threads
 * José Paumard's demo
 * Cora Iberkleid's demo 
+
+<!-- 
+ we are here...
+-->
 
 ## Web Programming
 * REST
