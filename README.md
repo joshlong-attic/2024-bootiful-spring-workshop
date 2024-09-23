@@ -24,9 +24,11 @@
 ## Data Oriented Programming in Java 21+ 
 * an example
 
-## the component model
+## Beans
 * dependency injection from first principles
 * bean configuration
+* XML
+* stereotype annotations
 * lifecycle 
 	* BeanPostProcessor
 	* BeanFactoryPostProcessor
