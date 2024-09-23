@@ -1,0 +1,23 @@
+type Mutation {
+    create(id:Int, sku:String , price:Float):Order
+}
+
+type Order {
+    id      : Int
+    date    : String
+    sku     : String
+    price   : Float
+}
+
+type LineItem {
+    id: Int
+}
+
+type Query {
+
+    all : [Order]
+    
+    id (id:Int): Order
+
+
+}
