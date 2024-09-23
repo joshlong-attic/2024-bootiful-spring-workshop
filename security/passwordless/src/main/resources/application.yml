@@ -1,0 +1,25 @@
+spring:
+  security:
+    oauth2:
+      authorizationserver:
+        client:
+          oidc-client:
+            registration:
+              client-id: "spring"
+              client-secret: "{noop}spring"
+              client-authentication-methods:
+                - "client_secret_basic"
+              authorization-grant-types:
+                - "authorization_code"
+                - "refresh_token"
+              redirect-uris:
+                - "http://127.0.0.1:9090/login/oauth2/code/spring"
+              scopes:
+                - "openid"
+                - "profile"
+  application:
+    name: passwordless
+  datasource:
+    url: jdbc:postgresql://localhost/mydatabase
+    username: myuser
+    password: secret

@@ -90,11 +90,6 @@
 * advisors
 * Retrieval Augmented Generation (RAG)
 
-
-<!-- 
- we are here...
--->
-
 ## Microservices
 * centralized configuration 
 * API gateways 
@@ -102,6 +97,9 @@
 * event bus and refreshable configuration
 * service registration and discovery
 
+<!-- 
+ we are here...
+-->
 ## Security 
 * adding form login to an application
 * authentication 

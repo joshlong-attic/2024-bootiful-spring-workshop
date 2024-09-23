@@ -1,0 +1,16 @@
+server:
+  port: 9090
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          spring:
+            client-secret: spring
+            client-id: spring
+            scope:
+              - openid
+              - profile
+        provider:
+          spring:
+            issuer-uri: http://localhost:8080
