@@ -60,13 +60,15 @@
 * José Paumard's demo
 * Cora Iberkleid's demo 
 
-<!-- 
- we are here...
--->
+
 
 ## Web Programming
 * REST
+	* controllers
+	* functional style
 * GraphQL 
+	* batches
+
 
 ## Messaging and Integration
 * "What do you mean by Event Driven?"
@@ -79,6 +81,19 @@
 * Spring Modulith 
 * Externalized messages
 * Testing 
+
+## Artificial Intelligence
+* what's in a model?
+* Spring AI
+* `ChatClient`
+* prompts
+* advisors
+* Retrieval Augmented Generation (RAG)
+
+
+<!-- 
+ we are here...
+-->
 
 ## Microservices
 * centralized configuration 
@@ -99,13 +114,7 @@
 	* OAuth resource servers
 	* protecting messaging code
 
-## Artificial Intelligence
-* what's in a model?
-* Spring AI
-* `ChatClient`
-* prompts
-* advisors
-* Retrieval Augmented Generation (RAG)
+
 
 ## Q&A 
 * I may not know, but I probably know who does know...
