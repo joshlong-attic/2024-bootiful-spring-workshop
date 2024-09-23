@@ -1,11 +1,17 @@
 # README 
 
 
+
 ## Basics
 * your choice of Java: GraalVM
 * start.spring.io, an API, website, and an IDE wizard 
+* Devtools
 * Docker Compose 
 * Testcontainers
+* the Spring JavaFormat Plugin 
+
+## Data Oriented Programming in Java 21+ 
+* an example
 
 ## the component model
 * dependency injection from first principles
@@ -16,6 +22,8 @@
 * auto configuration 
 * AOP
 * Spring's event publisher
+* configuration processor
+
 
 ## AOT & GraalVM
 * installing GraalVM 
@@ -25,8 +33,10 @@
 
 ## Data 
 * `JdbcClient`
-* Spring Data JDBC
+* SQL Initialization
 * Flyway
+* Spring Data JDBC
+
 
 ## Batch Processing
 * Spring Batch
@@ -53,6 +63,13 @@
 * Spring Modulith 
 * Externalized messages
 * Testing 
+
+## Microservices
+* centralized configuration 
+* API gateways 
+	* reactive or not reactive
+* event bus and refreshable configuration
+* service registration and discovery
 
 ## Security 
 * adding form login to an application
