@@ -3,12 +3,24 @@
 
 
 ## Basics
+* which IDE? IntelliJ, VSCode, and Eclipse
 * your choice of Java: GraalVM
 * start.spring.io, an API, website, and an IDE wizard 
 * Devtools
 * Docker Compose 
 * Testcontainers
+
+## Development Desk Check
 * the Spring JavaFormat Plugin 
+	* Python, `gofmt`, your favorite IDE, and 
+
+* the power of environment variables
+* SDKMAN
+	* `.sdkman`
+* direnv 
+	*  `.envrc`
+* a good password manager for secrets 
+
 
 ## Data Oriented Programming in Java 21+ 
 * an example
