@@ -74,6 +74,8 @@ class OrderGraphqlController {
 
     @BatchMapping
     Map<Order, Collection<LineItem>> lineItems(List<Order> orderList) {
+        // some query to get all LineItems mapping to these Orders
+        System.out.println("batching all the lineItem lookups");
         var ctr = 0;
         var map = new HashMap<Order, Collection<LineItem>>();
         for (var o : orderList)

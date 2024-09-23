@@ -1,5 +1,6 @@
 package com.example.web;
 
+import org.springframework.graphql.data.method.annotation.BatchMapping;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
@@ -36,7 +37,8 @@ class OrderRestController {
         this.service.create(order);
         return ResponseEntity.ok().build();
     }
-
-
+    
+    
+    
 }
 
