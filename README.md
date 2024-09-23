@@ -13,7 +13,6 @@
 ## Development Desk Check
 * the Spring JavaFormat Plugin 
 	* Python, `gofmt`, your favorite IDE, and 
-
 * the power of environment variables
 * SDKMAN
 	* `.sdkman`
