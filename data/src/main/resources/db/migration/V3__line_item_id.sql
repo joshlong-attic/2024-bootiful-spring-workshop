@@ -1,0 +1,1 @@
+alter table line_item add column id serial primary key  not null  ;
