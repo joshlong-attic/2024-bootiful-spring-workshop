@@ -9,6 +9,7 @@
 * Devtools
 * Docker Compose 
 * Testcontainers
+* banner.txt
 
 ## Development Desk Check
 * the Spring JavaFormat Plugin 
