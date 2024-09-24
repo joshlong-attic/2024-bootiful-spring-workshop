@@ -1,4 +1,8 @@
+
 # README 
+
+bit.ly/spring-tips-playlist
+youtube.com/@coffeesoftware
 
 ## Basics
 * which IDE? IntelliJ, VSCode, and Eclipse
@@ -36,7 +40,6 @@
 * Spring's event publisher
 * configuration processor
 
-
 ## AOT & GraalVM
 * installing GraalVM 
 * GraalVM native images 
@@ -49,7 +52,6 @@
 * Flyway
 * Spring Data JDBC
 
-
 ## Batch Processing 
 * Spring Batch
 * load some data from a CSV file to a SQL database
@@ -60,8 +62,6 @@
 * José Paumard's demo
 * Cora Iberkleid's demo 
 
-
-
 ## Web Programming
 * clients: `RestTemplate`, `RestClient`, declarative interface clients
 * REST
@@ -70,12 +70,6 @@
 * GraphQL 
 	* batches
 
-
-## Messaging and Integration
-* "What do you mean by Event Driven?"
-* Messaging Technologies like RabbitMQ or Apache Kafka
-* Spring Integration
-* files to events
 
 ## Architecting for Modularity
 * Privacy
@@ -98,6 +92,15 @@
 * event bus and refreshable configuration
 * service registration and discovery
 
+
+
+## Messaging and Integration
+* "What do you mean by Event Driven?"
+* Messaging Technologies like RabbitMQ or Apache Kafka
+* Spring Integration
+* files to events
+
+
 ## Security 
 * adding form login to an application
 * authentication 
@@ -110,12 +113,5 @@
 	* OAuth resource servers
 	* protecting messaging code
 
-
-
 ## Q&A 
 * I may not know, but I probably know who does know...
-
-
-
-
-
