@@ -63,6 +63,7 @@
 
 
 ## Web Programming
+* clients: `RestTemplate`, `RestClient`, declarative interface clients
 * REST
 	* controllers
 	* functional style
