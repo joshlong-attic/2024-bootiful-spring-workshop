@@ -98,9 +98,6 @@
 * event bus and refreshable configuration
 * service registration and discovery
 
-<!-- 
- we are here...
--->
 ## Security 
 * adding form login to an application
 * authentication 
