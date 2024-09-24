@@ -50,7 +50,7 @@
 * Spring Data JDBC
 
 
-## Batch Processing (TBD)
+## Batch Processing 
 * Spring Batch
 * load some data from a CSV file to a SQL database
 
